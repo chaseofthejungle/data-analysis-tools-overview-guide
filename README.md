@@ -31,3 +31,9 @@
 * Tableau
 * Thoughtspot
 * TIBCO Spotfire
+
+<hr />
+  
+## Supplemental Resource  
+  
+* [Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)
