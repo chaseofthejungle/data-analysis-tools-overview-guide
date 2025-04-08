@@ -1,5 +1,13 @@
 # data-analysis-tools-overview-guide
-**Description/Overview:** This guide will briefly describe use cases and features of the following tools:
+**Description/Overview:** This guide will briefly describe use cases and features of the tools outlined in Section 1.
+  
+#### Table of Contents
+1. [Data Analysis Tools](#tools)
+2. [Supplemental Resource](#supplemental)
+  
+<hr />
+  
+# <a name="tools">1. Data Analysis Tools</a>
   
 * Chartio
 * Domo
@@ -34,6 +42,6 @@
 
 <hr />
   
-## Supplemental Resource  
+## <a name="supplemental">2. Supplemental Resource</a>
   
 * [Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)
