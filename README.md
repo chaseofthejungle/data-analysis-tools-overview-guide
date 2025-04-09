@@ -1,9 +1,9 @@
-# data-analysis-tools-overview-guide
+# Data Analysis Tools Overview Guide
 **Description/Overview:** This guide will briefly describe use cases and features of the tools outlined in Section 1.
   
 #### Table of Contents
 1. [Data Analysis Tools](#tools)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -42,6 +42,7 @@
 
 <hr />
   
-## <a name="supplemental">2. Supplemental Resource</a>
+## <a name="supplemental">2. Supplemental Resources</a>
   
+* [Data Repositories Overview](https://github.com/chaseofthejungle/data-repositories-overview)  
 * [Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)
