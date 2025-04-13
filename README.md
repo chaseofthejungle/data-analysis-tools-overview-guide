@@ -46,3 +46,7 @@
   
 * [Data Repositories Overview](https://github.com/chaseofthejungle/data-repositories-overview)  
 * [Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)
+  
+<hr />
+  
+TODO: Add definitions and categories for tools.
