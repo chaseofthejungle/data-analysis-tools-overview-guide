@@ -49,4 +49,5 @@
   
 <hr />
   
-TODO: Add definitions and categories for tools.
+TODO #1: Add definitions and categories for tools.  
+TODO #2: Add examples of stacks/suites that integrate data analysis tools.
