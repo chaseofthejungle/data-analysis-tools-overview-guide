@@ -44,8 +44,10 @@
   
 ## <a name="supplemental">2. Supplemental Resources</a>
   
-* [Data Repositories Overview](https://github.com/chaseofthejungle/data-repositories-overview)  
-* [Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)
+* *[Official R Project Website](https://www.r-project.org/)*
+* *[Official Tableau Website](https://www.tableau.com/)*
+* *[Data Repositories Overview](https://github.com/chaseofthejungle/data-repositories-overview)*
+* *[Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)*
   
 <hr />
   
