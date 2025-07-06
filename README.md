@@ -3,46 +3,50 @@
   
 #### Table of Contents
 1. [Data Analysis Tools](#tools)
-2. [Supplemental Resources](#supplemental)
+2. [Legacy Tools](#legacy)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
   
-# <a name="tools">1. Data Analysis Tools</a>
+## <a name="tools">1. Data Analysis Tools</a>
   
-* Chartio
-* Domo
-* Google Data Studio
-* IBM Cognos
-* JASP
-* Jupyter Notebook
-* KNIME
-* Looker
-* MATLAB
-* Metabase
-* Microsoft Excel
-* Microsoft Power BI
-* Minitab
-* Mode
-* Oracle Analytics Cloud
-* Periscope Data
-* Python
-* Qlik
-* R
-* RapidMiner
-* Redash
-* SAP BusinessObjects
-* SAS Business Intelligence
-* Sisense
-* SPSS
-* SPSS Modeler
-* STATA
-* Tableau
-* Thoughtspot
-* TIBCO Spotfire
+* **Domo**
+* **Google Data Studio**
+* **IBM Cognos Analytics**
+* **JASP**
+* **Jupyter Notebook**
+* **KNIME**
+* **Looker**
+* **MATLAB**
+* **Metabase**
+* **Microsoft Excel**
+* **Microsoft Power BI**
+* **Minitab**
+* **Mode**
+* **Oracle Analytics Cloud**
+* **Python**
+* **Qlik**
+* **R**
+* **RapidMiner**
+* **Redash**
+* **SAP BusinessObjects**
+* **SAS Business Intelligence**
+* **Sisense**
+* **SPSS**
+* **SPSS Modeler**
+* **STATA**
+* **Tableau**
+* **Thoughtspot**
+* **TIBCO Spotfire**
 
+## <a name="legacy">2. Legacy Tools</a>
+  
+* **Chartio**
+* **Periscope Data**
+  
 <hr />
   
-## <a name="supplemental">2. Supplemental Resources</a>
+## <a name="supplemental">3. Supplemental Resources</a>
   
 * *[Official R Project Website](https://www.r-project.org/)*
 * *[Official Tableau Website](https://www.tableau.com/)*
