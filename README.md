@@ -41,8 +41,8 @@
 
 ## <a name="legacy">2. Legacy Tools</a>
   
-* **Chartio**
-* **Periscope Data**
+* **Chartio:** Served dashboard-based charts, before being acquired by Atlassian on February 26, 2021. Service ended March 1, 2022.
+* **Periscope Data:** Business data analytics platform acquired by Sisense, with an announcement on May 14, 2019.
   
 <hr />
   
